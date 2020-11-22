@@ -1,0 +1,81 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(./assets/images/backgroundImage.jpg);
+    margin: 30px;
+}
+
+.navbar-nav {
+    margin-right: auto;
+}
+
+.navbar-brand {
+    color: cadetblue;
+    font-weight: 600;
+}
+
+#NameCard {
+    color: cadetblue;
+}
+
+.container {
+    margin-top: 10px;
+    background-color: #8987AA;
+    border: 1px solid black;
+}
+
+#placeholderImg {
+    margin: auto;
+    margin: 30px;
+    float: left;
+    display: block;
+    height: 275px;
+    width: 250px;
+}
+
+#placeholderPar {
+    margin: 30px;
+    float: right;
+}
+
+.row p {
+    margin: 30px;
+}
+
+.col-lg-6 img {
+    margin: auto;
+    margin-bottom: 30px;
+    display: block;
+}
+
+h1 {
+    text-align: center;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    background-color: #190524;
+    margin-top: 50px;
+}
+
+#footer-text {
+    color: #9B9B9B;
+    padding-top: 10px;
+    text-align: center;
+}
+
+@media screen and (max-width: 600px) {
+    .container {
+        text-align: center;
+    }
+    #placeholderImg {
+        height: 75%;
+        width: 50%;
+    }
+
+}
