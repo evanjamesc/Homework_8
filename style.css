@@ -7,6 +7,11 @@ body {
     margin: 30px;
 }
 
+.links {
+    color: #211723;
+    text-decoration: underline;
+}
+
 .navbar-nav {
     margin-right: auto;
 }
