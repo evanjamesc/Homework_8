@@ -12,6 +12,10 @@ body {
     text-decoration: underline;
 }
 
+.listTitle {
+    font-weight: bold;
+}
+
 .navbar-nav {
     margin-right: auto;
 }
