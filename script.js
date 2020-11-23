@@ -12,7 +12,7 @@ $("#linkTwo").text("LinkedIn");
 $("#linkTwo").attr("href", "https://www.linkedin.com/in/evan-christianson-3a29861b6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAcL%2FmgHuQQugpXRzRlrAQg%3D%3D");
 
 $("#linkThree").text("Resume");
-$("#linkThree").attr("href", "https://docs.google.com/document/d/1U2VKVwb5jGHQe9u2N6WXo_pNQ9JnFitJvsrQKpIYALg/edit?usp=sharing");
+$("#linkThree").attr("href", "https://drive.google.com/file/d/1XljzTwPZRu3VLQXmB5Bz6rn_154n-wF9/view?usp=sharing");
 
 // Contact links
 $("#contactHeader").text("Contact");
