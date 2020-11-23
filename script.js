@@ -32,10 +32,14 @@ $("#projectOneDeployed").attr("href", "https://evanjamesc.github.io/Homework_3/"
 $("#portfolioImg2").attr("src", "./assets/images/weather.png");
 $("#projectTwoTitle").text("Weather Dashboard");
 $("#projectTwoRepo").text("GitHub Repository");
+$("#projectTwoRepo").attr("href", "https://github.com/evanjamesc/Homework_6");
 $("#projectTwoDeployed").text("Deployed Site");
+$("#projectTwoDeployed").attr("href", "https://evanjamesc.github.io/Homework_6/");
 
 // Project 1
 $("#portfolioImg3").attr("src", "./assets/images/projectOne.png");
 $("#projectThreeTitle").text("BeerDay Helper");
 $("#projectThreeRepo").text("GitHub Repository");
+$("#projectThreeRepo").attr("href", "https://github.com/ryan-conran/Beer-Day-Helper");
 $("#projectThreeDeployed").text("Deployed Site");
+$("#projectThreeDeployed").attr("href", "https://ryan-conran.github.io/Beer-Day-Helper/");
